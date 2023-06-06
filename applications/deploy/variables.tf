@@ -1,0 +1,12 @@
+variable "github_org" {}
+variable "repo" {}
+variable "branch" {}
+variable "ecr_repo" {}
+variable "ecr_tag" {}
+variable "account_id" {}
+variable "region" {}
+variable "certificate_arn" {}
+variable "zone_name" {}
+variable "app_domain" {}
+variable "env" {}
+variable "namespace" {}
